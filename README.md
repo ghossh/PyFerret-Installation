@@ -8,6 +8,8 @@
     ![](images/terminal.png)
 4. Write this conde on Terminal and create an environment 'FERRET'. 
     conda create -n FERRET -c conda-forge pyferret ferret_datasets --yes
+    ![](images/conda_command.png)
+    
 4. After installing, go to the environment 'FERRET'. Write this:
     conda activate FERRET 
 5. Now, type 
