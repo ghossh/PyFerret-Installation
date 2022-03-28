@@ -2,7 +2,7 @@
 
 ## This are the steps to install PyFerret in Windows/linux
 ### 1. Install Anaconda or Miniconda
-   here, you can download the miniconda installer: https://docs.conda.io/en/latest/miniconda.html\
+   - here, you can download the miniconda installer: https://docs.conda.io/en/latest/miniconda.html\
   - ![](images/conda.png)
 ### 2. Open the conda terminal  
     - ![](images/terminal.png)
