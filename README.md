@@ -10,7 +10,7 @@
     - conda create -n FERRET -c conda-forge pyferret ferret_datasets --yes
     - ![](images/conda_command.png)
     
-4. After installing, go to the environment 'FERRET'. Write this:
+4. After installing, go to the environment 'FERRET'. Write this
    - conda activate FERRET 
     ![](images/ferret_env.png)
 5. Now, type 
