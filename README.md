@@ -12,7 +12,9 @@
     
 4. After installing, go to the environment 'FERRET'. Write this:
     conda activate FERRET 
+    ![](images/ferret_env.png)
 5. Now, type 
       pyferret -nojnl 
       You will get to see it open.
+      ![](images/ferret.png)
   
