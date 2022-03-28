@@ -15,6 +15,6 @@
     ![](images/ferret_env.png)
 ### 5. Now, type 
    - pyferret -nojnl
-   ![](/images/ferret.png)
+   - ![](/images/ferret.png)
     - You will get to see it open.
   
