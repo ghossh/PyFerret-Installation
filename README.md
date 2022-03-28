@@ -14,7 +14,7 @@
    - conda activate FERRET 
     ![](images/ferret_env.png)
 5. Now, type 
-      pyferret -nojnl 
-      You will get to see it open.
+     - pyferret -nojnl 
+      - You will get to see it open.
       ![](images/ferret.png)
   
